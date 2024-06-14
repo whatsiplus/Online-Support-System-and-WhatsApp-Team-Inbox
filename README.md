@@ -20,6 +20,8 @@ To use the Online Support System and WhatsApp Team Inbox, you need to purchase t
 
 ## Key Features of Whatsiplus Online Support System
 
+![Whatsiplus Chatwoot](https://whatsiplus.com/wp-content/uploads/2024/06/chatwoot2.png.webp)
+
 ### Integration with WhatsApp and Other Platforms
 
 The biggest advantage of this system is the ability to connect your WhatsApp account via the WhatsApp API and manage incoming messages directly in the dedicated Chatwoot panel. This feature allows support teams to manage all customer messages in one place without needing to switch between different applications, enabling faster and more efficient responses to customer inquiries.
