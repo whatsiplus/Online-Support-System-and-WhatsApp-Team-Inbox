@@ -1,6 +1,6 @@
 # Online Support System and WhatsApp Team Inbox
 
-![Whatsiplus TeamInbox](https://whatsiplus.com/online-support-system-and-whatsapp-team-inbox/)
+![Whatsiplus TeamInbox]([https://whatsiplus.com/online-support-system-and-whatsapp-team-inbox/](https://github.com/whatsiplus/Online-Support-System-and-WhatsApp-Team-Inbox/blob/main/Teaminbox-1300x731.png))
 
 Online Support System and WhatsApp Team Inbox provided by Whatsiplus is an innovative solution for managing customer communications and enhancing the efficiency of support teams. This system allows you to manage incoming messages from WhatsApp and other communication platforms like Telegram, email, etc., in an integrated manner. You can support your users directly through your dedicated panel without needing to switch between these applications. In this article, we will review the features and benefits of this system.
 
